@@ -1,3 +1,3 @@
 # URATE-ARMA
 
-PREVISÃO DO COMPORTAMENTO DA TAXA DE DESOCUPAÇÃO NO BRASIL ATRAVÉS DE MODELOS AUTORREGRESSIVOS DE MÉDIAS MÓVEIS DUPLAMENTE LIMITADOS
+Previsão do Comportamento da Taxa de Desocupação no Brasil Através de Modelos Autorregressivos de Médias Móveis Duplamente Limitados
